@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DominatePracticalProject/.vs
+/DominatePracticalProject/Dominate.API/bin/Debug/net7.0
+/DominatePracticalProject/Dominate.API/obj
+/DominatePracticalProject/Dominate.Data/bin/Debug/net7.0
+/DominatePracticalProject/Dominate.Data/obj
+/DominatePracticalProject/Dominate.Services/bin/Debug/net7.0
+/DominatePracticalProject/Dominate.Services/obj
